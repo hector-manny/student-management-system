@@ -1,0 +1,377 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{BA9FE1CB-6C9D-4B05-9356-9F7528A1B3CC}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Prototipo</RootNamespace>
+    <AssemblyName>Prototipo</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <PublishUrl>publicar\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>Prototipo.Program</StartupObject>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=12.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Clases\actividadeconomica.cs" />
+    <Compile Include="Clases\alumnos.cs" />
+    <Compile Include="Clases\condicionesmedicas.cs" />
+    <Compile Include="Clases\condicionfamiliar.cs" />
+    <Compile Include="Clases\direcciones.cs" />
+    <Compile Include="Clases\discapacidades.cs" />
+    <Compile Include="Clases\docentes.cs" />
+    <Compile Include="Clases\encargados.cs" />
+    <Compile Include="Clases\materias.cs" />
+    <Compile Include="Clases\notas.cs" />
+    <Compile Include="Clases\partidas.cs" />
+    <Compile Include="Clases\Registros.cs" />
+    <Compile Include="Clases\salones.cs" />
+    <Compile Include="conexion.cs" />
+    <Compile Include="crearbasededatos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="crearbasededatos.Designer.cs">
+      <DependentUpon>crearbasededatos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="creditos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="creditos.Designer.cs">
+      <DependentUpon>creditos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Encargados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Encargados.Designer.cs">
+      <DependentUpon>Encargados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\login.Designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\NuevoU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\NuevoU.Designer.cs">
+      <DependentUpon>NuevoU.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\olvido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\olvido.Designer.cs">
+      <DependentUpon>olvido.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IngresarNotas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IngresarNotas.Designer.cs">
+      <DependentUpon>IngresarNotas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NOTAS.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NOTAS.Designer.cs">
+      <DependentUpon>NOTAS.cs</DependentUpon>
+    </Compile>
+    <Compile Include="principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="principal.Designer.cs">
+      <DependentUpon>principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Clases\usuarios.cs" />
+    <Compile Include="ReportedeNotas.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ReportedeNotas.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Reporte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reporte.Designer.cs">
+      <DependentUpon>Reporte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="splash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="splash.Designer.cs">
+      <DependentUpon>splash.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Boleta de Notas.rdlc" />
+    <EmbeddedResource Include="crearbasededatos.resx">
+      <DependentUpon>crearbasededatos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="creditos.resx">
+      <DependentUpon>creditos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Encargados.resx">
+      <DependentUpon>Encargados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\login.resx">
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\NuevoU.resx">
+      <DependentUpon>NuevoU.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\olvido.resx">
+      <DependentUpon>olvido.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IngresarNotas.resx">
+      <DependentUpon>IngresarNotas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NOTAS.resx">
+      <DependentUpon>NOTAS.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="principal.resx">
+      <DependentUpon>principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Reporte.resx">
+      <DependentUpon>Reporte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="splash.resx">
+      <DependentUpon>splash.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ReportedeNotas.xsc">
+      <DependentUpon>ReportedeNotas.xsd</DependentUpon>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ReportedeNotas.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ReportedeNotas.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="ReportedeNotas.xss">
+      <DependentUpon>ReportedeNotas.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\menu.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cerrar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cerrar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cerrar1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\minimizar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\maximizar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\notas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\generarbase de datos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\generar2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\generar21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\generar22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\botonbase.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icononotas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nosotros.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconotas.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\base.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Nuevo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\registro.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\registro1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IconoRegistro.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconnn-ConvertImage.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono-registro.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ingreso.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxHHCTRLLib">
+      <Guid>{ADB880A2-D8FF-11CF-9377-00AA003B7A11}</Guid>
+      <VersionMajor>4</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="HHCTRLLib">
+      <Guid>{ADB880A2-D8FF-11CF-9377-00AA003B7A11}</Guid>
+      <VersionMajor>4</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logotipo-full-color-letras-negras.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon0.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo-ACAAI-negro.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IUS-letras-negras.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logotipo-ISPO-letras-negras.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo-CdA-actualizado-marzo-2017-LETRAS-BLANCAS.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\engranajes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icono salir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cerrar2.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

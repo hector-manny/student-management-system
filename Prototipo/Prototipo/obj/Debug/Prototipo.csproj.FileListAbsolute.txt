@@ -1,0 +1,203 @@
+C:\Users\luism\OneDrive\Escritorio\Prototipo\Prototipo\bin\Debug\Prototipo.exe.config
+C:\Users\luism\OneDrive\Escritorio\Prototipo\Prototipo\bin\Debug\Prototipo.exe
+C:\Users\luism\OneDrive\Escritorio\Prototipo\Prototipo\bin\Debug\Prototipo.pdb
+C:\Users\luism\OneDrive\Escritorio\Prototipo\Prototipo\obj\Debug\Prototipo.csprojResolveAssemblyReference.cache
+C:\Users\luism\OneDrive\Escritorio\Prototipo\Prototipo\obj\Debug\Prototipo.Form1.resources
+C:\Users\luism\OneDrive\Escritorio\Prototipo\Prototipo\obj\Debug\Prototipo.Form2.resources
+C:\Users\luism\OneDrive\Escritorio\Prototipo\Prototipo\obj\Debug\Prototipo.Properties.Resources.resources
+C:\Users\luism\OneDrive\Escritorio\Prototipo\Prototipo\obj\Debug\Prototipo.csproj.GenerateResource.Cache
+C:\Users\luism\OneDrive\Escritorio\Prototipo\Prototipo\obj\Debug\Prototipo.exe
+C:\Users\luism\OneDrive\Escritorio\Prototipo\Prototipo\obj\Debug\Prototipo.pdb
+C:\Users\owner\Desktop\proyecto de catedra\Prototipo\Prototipo\bin\Debug\Prototipo.exe.config
+C:\Users\owner\Desktop\proyecto de catedra\Prototipo\Prototipo\bin\Debug\Prototipo.exe
+C:\Users\owner\Desktop\proyecto de catedra\Prototipo\Prototipo\bin\Debug\Prototipo.pdb
+C:\Users\owner\Desktop\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.csprojResolveAssemblyReference.cache
+C:\Users\owner\Desktop\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.creditos.resources
+C:\Users\owner\Desktop\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.Form1.resources
+C:\Users\owner\Desktop\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.Form2.resources
+C:\Users\owner\Desktop\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.Properties.Resources.resources
+C:\Users\owner\Desktop\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.csproj.GenerateResource.Cache
+C:\Users\owner\Desktop\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.csproj.CoreCompileInputs.cache
+C:\Users\owner\Desktop\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.exe
+C:\Users\owner\Desktop\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.pdb
+C:\Users\owner\Desktop\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.principal.resources
+C:\Users\owner\Desktop\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.crearbasededatos.resources
+C:\Users\owner\Desktop\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.Ingresarnotas.resources
+C:\Users\owner\Desktop\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.splash.resources
+C:\Users\owner\Desktop\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.Encargados.resources
+C:\Users\owner\Desktop\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.NOTAS.resources
+C:\Users\luism\OneDrive\Escritorio\Nuevo Intento\proyecto de catedra\Prototipo\Prototipo\bin\Debug\Prototipo.exe.config
+C:\Users\luism\OneDrive\Escritorio\Nuevo Intento\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.exe
+C:\Users\luism\OneDrive\Escritorio\Nuevo Intento\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.pdb
+C:\Users\luism\OneDrive\Escritorio\Nuevo Intento\proyecto de catedra\Prototipo\Prototipo\bin\Debug\Prototipo.exe
+C:\Users\luism\OneDrive\Escritorio\Nuevo Intento\proyecto de catedra\Prototipo\Prototipo\bin\Debug\Prototipo.pdb
+C:\Users\luism\OneDrive\Escritorio\Nuevo Intento\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.csprojResolveAssemblyReference.cache
+C:\Users\luism\OneDrive\Escritorio\Nuevo Intento\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.crearbasededatos.resources
+C:\Users\luism\OneDrive\Escritorio\Nuevo Intento\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.creditos.resources
+C:\Users\luism\OneDrive\Escritorio\Nuevo Intento\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.Encargados.resources
+C:\Users\luism\OneDrive\Escritorio\Nuevo Intento\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.Form1.resources
+C:\Users\luism\OneDrive\Escritorio\Nuevo Intento\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.Form2.resources
+C:\Users\luism\OneDrive\Escritorio\Nuevo Intento\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.IngresarNotas.resources
+C:\Users\luism\OneDrive\Escritorio\Nuevo Intento\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.NOTAS.resources
+C:\Users\luism\OneDrive\Escritorio\Nuevo Intento\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.principal.resources
+C:\Users\luism\OneDrive\Escritorio\Nuevo Intento\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.Properties.Resources.resources
+C:\Users\luism\OneDrive\Escritorio\Nuevo Intento\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.splash.resources
+C:\Users\luism\OneDrive\Escritorio\Nuevo Intento\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.csproj.GenerateResource.Cache
+C:\Users\luism\OneDrive\Escritorio\Nuevo Intento 2\proyecto de catedra\Prototipo\Prototipo\bin\Debug\Prototipo.exe.config
+C:\Users\luism\OneDrive\Escritorio\Nuevo Intento 2\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.exe
+C:\Users\luism\OneDrive\Escritorio\Nuevo Intento 2\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.pdb
+C:\Users\luism\OneDrive\Escritorio\Nuevo Intento 2\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.csprojResolveAssemblyReference.cache
+C:\Users\luism\OneDrive\Escritorio\Nuevo Intento 2\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.crearbasededatos.resources
+C:\Users\luism\OneDrive\Escritorio\Nuevo Intento 2\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.creditos.resources
+C:\Users\luism\OneDrive\Escritorio\Nuevo Intento 2\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.Encargados.resources
+C:\Users\luism\OneDrive\Escritorio\Nuevo Intento 2\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.Form1.resources
+C:\Users\luism\OneDrive\Escritorio\Nuevo Intento 2\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.Form2.resources
+C:\Users\luism\OneDrive\Escritorio\Nuevo Intento 2\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.Formularios.login.resources
+C:\Users\luism\OneDrive\Escritorio\Nuevo Intento 2\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.IngresarNotas.resources
+C:\Users\luism\OneDrive\Escritorio\Nuevo Intento 2\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.NOTAS.resources
+C:\Users\luism\OneDrive\Escritorio\Nuevo Intento 2\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.principal.resources
+C:\Users\luism\OneDrive\Escritorio\Nuevo Intento 2\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.Properties.Resources.resources
+C:\Users\luism\OneDrive\Escritorio\Nuevo Intento 2\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.splash.resources
+C:\Users\luism\OneDrive\Escritorio\Nuevo Intento 2\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.csproj.GenerateResource.Cache
+C:\Users\luism\OneDrive\Escritorio\Nuevo Intento 2\proyecto de catedra\Prototipo\Prototipo\bin\Debug\Prototipo.exe
+C:\Users\luism\OneDrive\Escritorio\Nuevo Intento 2\proyecto de catedra\Prototipo\Prototipo\bin\Debug\Prototipo.pdb
+C:\Users\luism\OneDrive\Escritorio\Nuevo Intento 2\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.principal2.resources
+C:\Users\luism\OneDrive\Escritorio\Nuevo Intento 2\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.principal3.resources
+C:\Users\Alex Hernández\Documents\proyecto de catedra\Prototipo\Prototipo\bin\Debug\Prototipo.exe.config
+C:\Users\Alex Hernández\Documents\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.exe
+C:\Users\Alex Hernández\Documents\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.pdb
+C:\Users\owner\Desktop\Nueva carpeta\proyecto de catedra\Prototipo\Prototipo\bin\Debug\Prototipo.exe.config
+C:\Users\owner\Desktop\Nueva carpeta\proyecto de catedra\Prototipo\Prototipo\bin\Debug\Prototipo.exe
+C:\Users\owner\Desktop\Nueva carpeta\proyecto de catedra\Prototipo\Prototipo\bin\Debug\Prototipo.pdb
+C:\Users\owner\Desktop\Nueva carpeta\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.crearbasededatos.resources
+C:\Users\owner\Desktop\Nueva carpeta\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.creditos.resources
+C:\Users\owner\Desktop\Nueva carpeta\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.Encargados.resources
+C:\Users\owner\Desktop\Nueva carpeta\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.Form1.resources
+C:\Users\owner\Desktop\Nueva carpeta\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.Form2.resources
+C:\Users\owner\Desktop\Nueva carpeta\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.Formularios.login.resources
+C:\Users\owner\Desktop\Nueva carpeta\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.IngresarNotas.resources
+C:\Users\owner\Desktop\Nueva carpeta\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.NOTAS.resources
+C:\Users\owner\Desktop\Nueva carpeta\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.principal.resources
+C:\Users\owner\Desktop\Nueva carpeta\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.Properties.Resources.resources
+C:\Users\owner\Desktop\Nueva carpeta\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.splash.resources
+C:\Users\owner\Desktop\Nueva carpeta\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.csproj.GenerateResource.Cache
+C:\Users\owner\Desktop\Nueva carpeta\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.csproj.CoreCompileInputs.cache
+C:\Users\owner\Desktop\Nueva carpeta\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.exe
+C:\Users\owner\Desktop\Nueva carpeta\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.pdb
+C:\Users\owner\Desktop\Nueva carpeta\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.Formularios.olvido.resources
+C:\Users\owner\Desktop\Nueva carpeta\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.Formularios.NuevoU.resources
+C:\Users\owner\Desktop\Nueva carpeta\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.csprojAssemblyReference.cache
+C:\Users\Alex Hernández\Desktop\proyecto de catedra\Prototipo\Prototipo\bin\Debug\Prototipo.exe.config
+C:\Users\Alex Hernández\Desktop\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.exe
+C:\Users\Alex Hernández\Desktop\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.pdb
+C:\Users\Alex Hernández\Desktop\proyecto de catedra\Prototipo\Prototipo\bin\Debug\Prototipo.exe
+C:\Users\Alex Hernández\Desktop\proyecto de catedra\Prototipo\Prototipo\bin\Debug\Prototipo.pdb
+C:\Users\Alex Hernández\Desktop\proyecto de catedra\Prototipo\Prototipo\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Alex Hernández\Desktop\proyecto de catedra\Prototipo\Prototipo\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Alex Hernández\Desktop\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.csprojResolveAssemblyReference.cache
+C:\Users\Alex Hernández\Desktop\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.crearbasededatos.resources
+C:\Users\Alex Hernández\Desktop\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.creditos.resources
+C:\Users\Alex Hernández\Desktop\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.Encargados.resources
+C:\Users\Alex Hernández\Desktop\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.Form1.resources
+C:\Users\Alex Hernández\Desktop\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.Form2.resources
+C:\Users\Alex Hernández\Desktop\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.Formularios.login.resources
+C:\Users\Alex Hernández\Desktop\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.Formularios.NuevoU.resources
+C:\Users\Alex Hernández\Desktop\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.Formularios.olvido.resources
+C:\Users\Alex Hernández\Desktop\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.IngresarNotas.resources
+C:\Users\Alex Hernández\Desktop\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.NOTAS.resources
+C:\Users\Alex Hernández\Desktop\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.principal.resources
+C:\Users\Alex Hernández\Desktop\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.Properties.Resources.resources
+C:\Users\Alex Hernández\Desktop\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.Reporte.resources
+C:\Users\Alex Hernández\Desktop\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.splash.resources
+C:\Users\Alex Hernández\Desktop\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.csproj.GenerateResource.Cache
+C:\Users\Alex Hernández\Desktop\proyecto de catedra\Prototipo\Prototipo\obj\Debug\RdlCompile.cache
+C:\Users\Alex Hernández\Desktop\proyecto de catedra\Prototipo\Prototipo\obj\Debug\RdlCompile.compiled
+C:\Users\owner\Desktop\Nueva carpeta\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.Reporte.resources
+E:\ULTIMO PROYECTO CON REPORTES\proyecto de catedra\Prototipo\Prototipo\bin\Debug\Prototipo.exe.config
+E:\ULTIMO PROYECTO CON REPORTES\proyecto de catedra\Prototipo\Prototipo\bin\Debug\Prototipo.exe
+E:\ULTIMO PROYECTO CON REPORTES\proyecto de catedra\Prototipo\Prototipo\bin\Debug\Prototipo.pdb
+E:\ULTIMO PROYECTO CON REPORTES\proyecto de catedra\Prototipo\Prototipo\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\ULTIMO PROYECTO CON REPORTES\proyecto de catedra\Prototipo\Prototipo\bin\Debug\Interop.HHCTRLLib.dll
+E:\ULTIMO PROYECTO CON REPORTES\proyecto de catedra\Prototipo\Prototipo\bin\Debug\AxInterop.HHCTRLLib.dll
+E:\ULTIMO PROYECTO CON REPORTES\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.csprojAssemblyReference.cache
+E:\ULTIMO PROYECTO CON REPORTES\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Interop.HHCTRLLib.dll
+E:\ULTIMO PROYECTO CON REPORTES\proyecto de catedra\Prototipo\Prototipo\obj\Debug\AxInterop.HHCTRLLib.dll
+E:\ULTIMO PROYECTO CON REPORTES\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.csproj.ResolveComReference.cache
+E:\ULTIMO PROYECTO CON REPORTES\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.crearbasededatos.resources
+E:\ULTIMO PROYECTO CON REPORTES\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.creditos.resources
+E:\ULTIMO PROYECTO CON REPORTES\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.Encargados.resources
+E:\ULTIMO PROYECTO CON REPORTES\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.Form1.resources
+E:\ULTIMO PROYECTO CON REPORTES\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.Formularios.login.resources
+E:\ULTIMO PROYECTO CON REPORTES\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.Formularios.NuevoU.resources
+E:\ULTIMO PROYECTO CON REPORTES\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.Formularios.olvido.resources
+E:\ULTIMO PROYECTO CON REPORTES\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.IngresarNotas.resources
+E:\ULTIMO PROYECTO CON REPORTES\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.NOTAS.resources
+E:\ULTIMO PROYECTO CON REPORTES\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.principal.resources
+E:\ULTIMO PROYECTO CON REPORTES\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.Properties.Resources.resources
+E:\ULTIMO PROYECTO CON REPORTES\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.Reporte.resources
+E:\ULTIMO PROYECTO CON REPORTES\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.splash.resources
+E:\ULTIMO PROYECTO CON REPORTES\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.csproj.GenerateResource.cache
+E:\ULTIMO PROYECTO CON REPORTES\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.csproj.CoreCompileInputs.cache
+E:\ULTIMO PROYECTO CON REPORTES\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.csproj.CopyComplete
+E:\ULTIMO PROYECTO CON REPORTES\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.exe
+E:\ULTIMO PROYECTO CON REPORTES\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.pdb
+C:\Users\mejia\Desktop\memoria\ULTIMO PROYECTO CON REPORTES\proyecto de catedra\Prototipo\Prototipo\bin\Debug\Prototipo.exe.config
+C:\Users\mejia\Desktop\memoria\ULTIMO PROYECTO CON REPORTES\proyecto de catedra\Prototipo\Prototipo\bin\Debug\Prototipo.exe
+C:\Users\mejia\Desktop\memoria\ULTIMO PROYECTO CON REPORTES\proyecto de catedra\Prototipo\Prototipo\bin\Debug\Prototipo.pdb
+C:\Users\mejia\Desktop\memoria\ULTIMO PROYECTO CON REPORTES\proyecto de catedra\Prototipo\Prototipo\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mejia\Desktop\memoria\ULTIMO PROYECTO CON REPORTES\proyecto de catedra\Prototipo\Prototipo\bin\Debug\Interop.HHCTRLLib.dll
+C:\Users\mejia\Desktop\memoria\ULTIMO PROYECTO CON REPORTES\proyecto de catedra\Prototipo\Prototipo\bin\Debug\AxInterop.HHCTRLLib.dll
+C:\Users\mejia\Desktop\memoria\ULTIMO PROYECTO CON REPORTES\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.csprojAssemblyReference.cache
+C:\Users\mejia\Desktop\memoria\ULTIMO PROYECTO CON REPORTES\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Interop.HHCTRLLib.dll
+C:\Users\mejia\Desktop\memoria\ULTIMO PROYECTO CON REPORTES\proyecto de catedra\Prototipo\Prototipo\obj\Debug\AxInterop.HHCTRLLib.dll
+C:\Users\mejia\Desktop\memoria\ULTIMO PROYECTO CON REPORTES\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.csproj.ResolveComReference.cache
+C:\Users\mejia\Desktop\memoria\ULTIMO PROYECTO CON REPORTES\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.crearbasededatos.resources
+C:\Users\mejia\Desktop\memoria\ULTIMO PROYECTO CON REPORTES\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.creditos.resources
+C:\Users\mejia\Desktop\memoria\ULTIMO PROYECTO CON REPORTES\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.Encargados.resources
+C:\Users\mejia\Desktop\memoria\ULTIMO PROYECTO CON REPORTES\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.Form1.resources
+C:\Users\mejia\Desktop\memoria\ULTIMO PROYECTO CON REPORTES\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.Formularios.login.resources
+C:\Users\mejia\Desktop\memoria\ULTIMO PROYECTO CON REPORTES\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.Formularios.NuevoU.resources
+C:\Users\mejia\Desktop\memoria\ULTIMO PROYECTO CON REPORTES\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.Formularios.olvido.resources
+C:\Users\mejia\Desktop\memoria\ULTIMO PROYECTO CON REPORTES\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.IngresarNotas.resources
+C:\Users\mejia\Desktop\memoria\ULTIMO PROYECTO CON REPORTES\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.NOTAS.resources
+C:\Users\mejia\Desktop\memoria\ULTIMO PROYECTO CON REPORTES\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.principal.resources
+C:\Users\mejia\Desktop\memoria\ULTIMO PROYECTO CON REPORTES\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.Properties.Resources.resources
+C:\Users\mejia\Desktop\memoria\ULTIMO PROYECTO CON REPORTES\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.Reporte.resources
+C:\Users\mejia\Desktop\memoria\ULTIMO PROYECTO CON REPORTES\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.splash.resources
+C:\Users\mejia\Desktop\memoria\ULTIMO PROYECTO CON REPORTES\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.csproj.GenerateResource.cache
+C:\Users\mejia\Desktop\memoria\ULTIMO PROYECTO CON REPORTES\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.csproj.CoreCompileInputs.cache
+C:\Users\mejia\Desktop\memoria\ULTIMO PROYECTO CON REPORTES\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.csproj.CopyComplete
+C:\Users\mejia\Desktop\memoria\ULTIMO PROYECTO CON REPORTES\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.exe
+C:\Users\mejia\Desktop\memoria\ULTIMO PROYECTO CON REPORTES\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.pdb
+C:\Users\mejia\Desktop\memoria\ULTIMO PROYECTO CON REPORTES\proyecto de catedra\Prototipo\Prototipo\obj\Debug\RdlCompile.cache
+C:\Users\mejia\Desktop\memoria\ULTIMO PROYECTO CON REPORTES\proyecto de catedra\Prototipo\Prototipo\obj\Debug\RdlCompile.compiled
+C:\Users\mejia\Desktop\PROYECTO PROGRMACION ESTRUCTURADA\proyecto de catedra\Prototipo\Prototipo\bin\Debug\Prototipo.exe.config
+C:\Users\mejia\Desktop\PROYECTO PROGRMACION ESTRUCTURADA\proyecto de catedra\Prototipo\Prototipo\bin\Debug\Prototipo.exe
+C:\Users\mejia\Desktop\PROYECTO PROGRMACION ESTRUCTURADA\proyecto de catedra\Prototipo\Prototipo\bin\Debug\Prototipo.pdb
+C:\Users\mejia\Desktop\PROYECTO PROGRMACION ESTRUCTURADA\proyecto de catedra\Prototipo\Prototipo\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\mejia\Desktop\PROYECTO PROGRMACION ESTRUCTURADA\proyecto de catedra\Prototipo\Prototipo\bin\Debug\Interop.HHCTRLLib.dll
+C:\Users\mejia\Desktop\PROYECTO PROGRMACION ESTRUCTURADA\proyecto de catedra\Prototipo\Prototipo\bin\Debug\AxInterop.HHCTRLLib.dll
+C:\Users\mejia\Desktop\PROYECTO PROGRMACION ESTRUCTURADA\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.csprojAssemblyReference.cache
+C:\Users\mejia\Desktop\PROYECTO PROGRMACION ESTRUCTURADA\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Interop.HHCTRLLib.dll
+C:\Users\mejia\Desktop\PROYECTO PROGRMACION ESTRUCTURADA\proyecto de catedra\Prototipo\Prototipo\obj\Debug\AxInterop.HHCTRLLib.dll
+C:\Users\mejia\Desktop\PROYECTO PROGRMACION ESTRUCTURADA\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.csproj.ResolveComReference.cache
+C:\Users\mejia\Desktop\PROYECTO PROGRMACION ESTRUCTURADA\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.crearbasededatos.resources
+C:\Users\mejia\Desktop\PROYECTO PROGRMACION ESTRUCTURADA\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.creditos.resources
+C:\Users\mejia\Desktop\PROYECTO PROGRMACION ESTRUCTURADA\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.Encargados.resources
+C:\Users\mejia\Desktop\PROYECTO PROGRMACION ESTRUCTURADA\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.Form1.resources
+C:\Users\mejia\Desktop\PROYECTO PROGRMACION ESTRUCTURADA\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.Formularios.login.resources
+C:\Users\mejia\Desktop\PROYECTO PROGRMACION ESTRUCTURADA\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.Formularios.NuevoU.resources
+C:\Users\mejia\Desktop\PROYECTO PROGRMACION ESTRUCTURADA\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.Formularios.olvido.resources
+C:\Users\mejia\Desktop\PROYECTO PROGRMACION ESTRUCTURADA\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.IngresarNotas.resources
+C:\Users\mejia\Desktop\PROYECTO PROGRMACION ESTRUCTURADA\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.NOTAS.resources
+C:\Users\mejia\Desktop\PROYECTO PROGRMACION ESTRUCTURADA\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.principal.resources
+C:\Users\mejia\Desktop\PROYECTO PROGRMACION ESTRUCTURADA\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.Properties.Resources.resources
+C:\Users\mejia\Desktop\PROYECTO PROGRMACION ESTRUCTURADA\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.Reporte.resources
+C:\Users\mejia\Desktop\PROYECTO PROGRMACION ESTRUCTURADA\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.splash.resources
+C:\Users\mejia\Desktop\PROYECTO PROGRMACION ESTRUCTURADA\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.csproj.GenerateResource.cache
+C:\Users\mejia\Desktop\PROYECTO PROGRMACION ESTRUCTURADA\proyecto de catedra\Prototipo\Prototipo\obj\Debug\RdlCompile.cache
+C:\Users\mejia\Desktop\PROYECTO PROGRMACION ESTRUCTURADA\proyecto de catedra\Prototipo\Prototipo\obj\Debug\RdlCompile.compiled
+C:\Users\mejia\Desktop\PROYECTO PROGRMACION ESTRUCTURADA\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.csproj.CoreCompileInputs.cache
+C:\Users\mejia\Desktop\PROYECTO PROGRMACION ESTRUCTURADA\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.csproj.CopyComplete
+C:\Users\mejia\Desktop\PROYECTO PROGRMACION ESTRUCTURADA\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.exe
+C:\Users\mejia\Desktop\PROYECTO PROGRMACION ESTRUCTURADA\proyecto de catedra\Prototipo\Prototipo\obj\Debug\Prototipo.pdb
